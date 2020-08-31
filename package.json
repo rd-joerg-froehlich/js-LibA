@@ -1,0 +1,22 @@
+{
+  "name": "js-liba",
+  "version": "1.0.0",
+  "description": "Only for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "no tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rd-joerg-froehlich/js-LibA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rd-joerg-froehlich/js-LibA/issues"
+  },
+  "homepage": "https://github.com/rd-joerg-froehlich/js-LibA#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
