@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rd-joerg-froehlich/js-LibA#readme",
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "2.0.0"
   }
 }
